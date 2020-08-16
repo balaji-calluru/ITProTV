@@ -37,3 +37,15 @@ my_bool = 1
 print('my bool type: ', bool(my_bool))
 my_bool = -1
 print('my bool type: ', bool(my_bool))
+
+num = '18'
+num_as_num = eval(num)
+print('num as num:', num, num_as_num, type(num_as_num))
+
+num = '18.5'
+num_as_num = eval(num)
+print('num as num:', num, num_as_num, type(num_as_num))
+
+num = 'print("WTF")'
+num_as_num = eval(num)
+print('num as num:', num, num_as_num, type(num_as_num))
