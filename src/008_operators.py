@@ -16,3 +16,6 @@ print(7.234//2.755465)
 print(5%3)
 print(7*2)
 print(7**2)
+
+print('a'+'b')
+print('Bala'*5)
