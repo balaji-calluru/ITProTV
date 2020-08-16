@@ -1,4 +1,4 @@
-my_favs = ['Balaji', 'Gubli', 'Adhithya', 'Surya', 'Pranav', 'Madhav', 'Maya', 'Manasa', 'Vasanthi']
+my_favs = ['Balaji', 'Gubli', 'Adhithya', 'Surya', 'Pranav', 'Madhav', 'Maya', 'Manasa']
 print("Favs: ", my_favs)
 print('3rd one', my_favs[2])
 
