@@ -6,7 +6,7 @@ f = 0.0
 print(b)
 while b:
     print(s, i)
-    i = i+1
+    i = i + 1
     if i > 5:
         b = False
 print(b)

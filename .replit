@@ -1,2 +1,2 @@
-language = "python3"
-run = ""
+language = "bash"
+run = "python3 ~/ITProTV/src/001_primitive_data_types.py"
